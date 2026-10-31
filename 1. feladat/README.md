@@ -130,7 +130,7 @@
             }
 
             if (age < 6) {
-                return is3D ? 800 : 0; // 6 év alatt ingyenes, de 3D esetén a felár fizetendő
+                return is3D ? 800 : 0;
             }
 
             let maxDiscount = 0;
