@@ -10,4 +10,4 @@ Ez a projekt egy JavaScript nyelven íródott konverter, amely az arab számokat
 ## Projekt futtatása és tesztelés
 1. Klónozza a repositoryt:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone <https://github.com/Emate04/Szoftteszteles.git>
